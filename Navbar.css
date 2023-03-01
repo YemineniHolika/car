@@ -1,0 +1,163 @@
+.stylinglogo{
+	height:100px;
+	width:150px;
+	padding:8px;
+}
+#lalli{
+   color:white;
+   background-color: maroon;
+   border:none;
+   border-radius: 5px;
+   padding-top:5px;
+   font-family: 'roboto';
+   font-weight: bold;
+   font-size: 5px;
+   margin-top:20px;
+}
+#lalli: hover{
+	background-color: grey;
+	color:red;
+}
+#holi{
+      color:black;
+      font-family: 'roboto';
+      font-weight: bold;
+      padding: 5px;
+      border: none;
+}
+#holi:hover{
+	color:red;
+	border-radius: 10px;
+	border: none;
+}
+.bgimg{
+	height:90px;
+	width:1500px;
+	padding:10px; 
+}
+.btn1{
+	color:white;
+	background-color: red;
+	padding: 5px;
+	border-radius: 10px;
+	border:none;
+}
+.pinki{
+	color:white;
+	border: none;
+	padding-top:25px;
+	font-family: 'roboto';
+	font-weight: 'bold';
+}
+.lay{
+	margin-top: 200px;
+	padding-top: 150px;
+	border-radius: 10px;
+}
+.bgimg2{
+	background-color: white;
+	padding-top: 100px;
+}
+.carding{
+   text-align: center;
+   background-color: white;
+   border-style: solid;
+   border-width: 1px;
+   border-color: #e5eaf4;
+   border-radius: 16px;
+}
+.head{
+	color: #323f4b;
+	font-family: Arial,Helvetica, sans-serif;
+	width: 87px;
+	font-size:22px;
+	font-weight: bold;
+}
+.para{
+	color: #7b8794;
+	font-family: Arial,Helvetica, sans-serif;
+	font-size:16px;
+}
+.offers{
+	color:#323f4b;
+	font-style: italic;
+	font-weight: 600;
+}
+.munna{
+	margin-top: 200px;
+	border-radius: 10px;
+}
+.carding1{
+   background-color: white;
+   border-style: solid;
+   border-width: 1px;
+   border-color: #e5eaf4;
+   border-radius: 16px;
+   margin-left: 50px;
+   margin-top: 50px;
+}
+.head2{
+	color: #323f4b;
+	font-family: Arial,Helvetica, sans-serif;
+	width: 87px;
+	font-size:15px;
+	font-weight: bold;
+}
+.mouni{
+	color:red;
+	font-weight: bold;
+}
+.mani{
+	margin-left: 50px;
+}
+.bhanu{
+	background-color: white;
+
+}
+.head2{
+	color: #323f4b;
+	font-family: Arial,Helvetica, sans-serif;
+	width: 87px;
+	font-size:22px;
+	font-weight: bold;
+	padding-right: 50px;
+	padding-top: 30px;
+}
+.para2{
+	color: #7b8794;
+	font-family: Arial,Helvetica, sans-serif;
+	font-size:16px;
+}
+.btn2{
+	color:white;
+	background-color: red;
+	padding: 5px;
+	border-radius: 10px;
+	border:none;
+}
+.img6{
+	padding: 10px;
+}
+.btn3{
+	color:white;
+	background-color: green;
+	padding-top: 5px;
+	border-radius: 10px;
+	border:none;
+	margin-top: 25px;
+}
+#pinki{
+	 color:black;
+      font-family: 'roboto';
+      font-weight: bold;
+      padding: 5px;
+      border: none;
+}
+#pinki:hover{
+	color:grey;
+	border-radius: 10px;
+	border: none;
+}
+.asma{
+	text-align: center;
+}
